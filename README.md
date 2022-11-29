@@ -12,8 +12,8 @@
 - 📫 How to reach me **mickaelgudin@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/mickaelgudin/](https://www.linkedin.com/in/mickaelgudin/)
 
-<p ><img src="https://github-readme-stats-mickaelgudin.vercel.app/api/top-langs?username=mickaelgudin&show_icons=true&locale=en&layout=compact" alt="mickaelgudin" ></p>
+<p ><img src="https://github-readme-stats-mickaelgudin-1tuf3z4uv-mickaelgudin.vercel.app/api/top-langs?username=mickaelgudin&show_icons=true&locale=en&layout=compact" alt="mickaelgudin" ></p>
 
-<p><img align="center" src="https://github-readme-stats-mickaelgudin.vercel.app/api?username=mickaelgudin&show_icons=true&locale=en" alt="mickaelgudin" /></p>
+<p><img align="center" src="https://github-readme-stats-mickaelgudin-1tuf3z4uv-mickaelgudin.vercel.app/api?username=mickaelgudin&show_icons=true&locale=en" alt="mickaelgudin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickaelgudin&" alt="mickaelgudin" /></p>
